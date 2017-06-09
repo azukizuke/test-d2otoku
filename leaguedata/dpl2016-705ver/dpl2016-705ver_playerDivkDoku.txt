@@ -1,0 +1,10 @@
+|{{:hero:97.png?nolink&50|}}|name : 9 \\ ||{{:hero:54.png?nolink&50|}}|name : 17 \\ ||{{:hero:8.png?nolink&50|}}|name : 22 \\ ||{{:hero:97.png?nolink&50|}}|name : 9 \\ ||{{:hero:88.png?nolink&50|}}|name : 6 \\ |
+|{{:hero:54.png?nolink&50|}}|name : 17 \\ ||{{:hero:8.png?nolink&50|}}|name : 22 \\ ||{{:hero:25.png?nolink&50|}}|name : 21 \\ ||{{:hero:88.png?nolink&50|}}|name : 6 \\ ||{{:hero:107.png?nolink&50|}}|name : 23 \\ |
+|{{:hero:88.png?nolink&50|}}|name : 6 \\ ||{{:hero:106.png?nolink&50|}}|name : 18 \\ ||{{:hero:73.png?nolink&50|}}|name : 9 \\ ||{{:hero:28.png?nolink&50|}}|name : 13 \\ ||{{:hero:114.png?nolink&50|}}|name : 20 \\ |
+|{{:hero:107.png?nolink&50|}}|name : 23 \\ ||{{:hero:20.png?nolink&50|}}|name : 13 \\ ||{{:hero:106.png?nolink&50|}}|name : 18 \\ ||{{:hero:104.png?nolink&50|}}|name : 26 \\ ||{{:hero:28.png?nolink&50|}}|name : 13 \\ |
+|{{:hero:114.png?nolink&50|}}|name : 20 \\ ||{{:hero:70.png?nolink&50|}}|name : 11 \\ ||{{:hero:11.png?nolink&50|}}|name : 18 \\ ||{{:hero:102.png?nolink&50|}}|name : 6 \\ ||{{:hero:5.png?nolink&50|}}|name : 41 \\ |
+|{{:hero:8.png?nolink&50|}}|name : 22 \\ ||{{:hero:63.png?nolink&50|}}|name : 8 \\ ||{{:hero:17.png?nolink&50|}}|name : 8 \\ ||{{:hero:2.png?nolink&50|}}|name : 6 \\ ||{{:hero:25.png?nolink&50|}}|name : 21 \\ |
+|{{:hero:28.png?nolink&50|}}|name : 13 \\ ||{{:hero:109.png?nolink&50|}}|name : 6 \\ ||{{:hero:34.png?nolink&50|}}|name : 6 \\ ||{{:hero:51.png?nolink&50|}}|name : 15 \\ ||{{:hero:20.png?nolink&50|}}|name : 13 \\ |
+|{{:hero:5.png?nolink&50|}}|name : 41 \\ ||{{:hero:95.png?nolink&50|}}|name : 3 \\ ||{{:hero:74.png?nolink&50|}}|name : 8 \\ ||{{:hero:16.png?nolink&50|}}|name : 13 \\ ||{{:hero:32.png?nolink&50|}}|name : 7 \\ |
+|{{:hero:25.png?nolink&50|}}|name : 21 \\ ||{{:hero:93.png?nolink&50|}}|name : 4 \\ ||{{:hero:76.png?nolink&50|}}|name : 6 \\ ||{{:hero:65.png?nolink&50|}}|name : 3 \\ ||{{:hero:83.png?nolink&50|}}|name : 11 \\ |
+|{{:hero:104.png?nolink&50|}}|name : 26 \\ ||{{:hero:89.png?nolink&50|}}|name : 2 \\ ||{{:hero:46.png?nolink&50|}}|name : 7 \\ ||{{:hero:96.png?nolink&50|}}|name : 7 \\ ||{{:hero:37.png?nolink&50|}}|name : 11 \\ |

@@ -1,0 +1,6 @@
+|{{:item:36.png?nolink&40|}}|50%|{{:item:187.png?nolink&40|}}|33%|{{:item:180.png?nolink&40|}}|16%|
+|{{:item:229.png?nolink&40|}}|33%|{{:item:187.png?nolink&40|}}|16%|{{:item:180.png?nolink&40|}}|16%|
+|{{:item:36.png?nolink&40|}}|33%|{{:item:187.png?nolink&40|}}|16%|{{:item:229.png?nolink&40|}}|16%|
+|{{:item:102.png?nolink&40|}}|50%|
+|{{:item:229.png?nolink&40|}}|16%|
+|{{:item:48.png?nolink&40|}}|16%|

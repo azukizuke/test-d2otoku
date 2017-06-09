@@ -1,0 +1,17 @@
+|{{:item:214.png?nolink&40|}}|60%|{{:item:36.png?nolink&40|}}|40%|
+|{{:item:214.png?nolink&40|}}|30%|{{:item:36.png?nolink&40|}}|30%|{{:item:92.png?nolink&40|}}|20%|{{:item:65.png?nolink&40|}}|10%|{{:item:25.png?nolink&40|}}|10%|
+|{{:item:25.png?nolink&40|}}|30%|{{:item:65.png?nolink&40|}}|20%|{{:item:36.png?nolink&40|}}|10%|{{:item:9.png?nolink&40|}}|10%|{{:item:23.png?nolink&40|}}|10%|{{:item:77.png?nolink&40|}}|10%|{{:item:31.png?nolink&40|}}|10%|
+|{{:item:56.png?nolink&40|}}|30%|{{:item:65.png?nolink&40|}}|20%|{{:item:214.png?nolink&40|}}|10%|{{:item:23.png?nolink&40|}}|10%|{{:item:25.png?nolink&40|}}|10%|{{:item:77.png?nolink&40|}}|10%|
+|{{:item:9.png?nolink&40|}}|20%|{{:item:131.png?nolink&40|}}|10%|{{:item:69.png?nolink&40|}}|10%|{{:item:102.png?nolink&40|}}|10%|{{:item:73.png?nolink&40|}}|10%|{{:item:6.png?nolink&40|}}|10%|{{:item:30.png?nolink&40|}}|10%|{{:item:31.png?nolink&40|}}|10%|
+|{{:item:119.png?nolink&40|}}|10%|{{:item:94.png?nolink&40|}}|10%|{{:item:73.png?nolink&40|}}|10%|{{:item:56.png?nolink&40|}}|10%|{{:item:57.png?nolink&40|}}|10%|{{:item:23.png?nolink&40|}}|10%|{{:item:30.png?nolink&40|}}|10%|{{:item:190.png?nolink&40|}}|10%|
+|{{:item:131.png?nolink&40|}}|10%|{{:item:56.png?nolink&40|}}|10%|{{:item:9.png?nolink&40|}}|10%|{{:item:58.png?nolink&40|}}|10%|{{:item:59.png?nolink&40|}}|10%|{{:item:90.png?nolink&40|}}|10%|{{:item:206.png?nolink&40|}}|10%|
+|{{:item:226.png?nolink&40|}}|10%|{{:item:58.png?nolink&40|}}|10%|{{:item:102.png?nolink&40|}}|10%|{{:item:94.png?nolink&40|}}|10%|{{:item:9.png?nolink&40|}}|10%|
+|{{:item:56.png?nolink&40|}}|10%|{{:item:90.png?nolink&40|}}|10%|{{:item:23.png?nolink&40|}}|10%|{{:item:119.png?nolink&40|}}|10%|
+|{{:item:30.png?nolink&40|}}|20%|{{:item:21.png?nolink&40|}}|10%|{{:item:69.png?nolink&40|}}|10%|
+|{{:item:56.png?nolink&40|}}|10%|{{:item:57.png?nolink&40|}}|10%|{{:item:22.png?nolink&40|}}|10%|
+|{{:item:59.png?nolink&40|}}|10%|{{:item:69.png?nolink&40|}}|10%|
+|{{:item:57.png?nolink&40|}}|10%|{{:item:226.png?nolink&40|}}|10%|
+|{{:item:56.png?nolink&40|}}|10%|
+|{{:item:69.png?nolink&40|}}|10%|
+|{{:item:57.png?nolink&40|}}|10%|
+|{{:item:110.png?nolink&40|}}|10%|

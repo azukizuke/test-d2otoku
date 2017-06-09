@@ -1,0 +1,11 @@
+|{{:item:239.png?nolink&40|}}|33%|{{:item:180.png?nolink&40|}}|21%|{{:item:41.png?nolink&40|}}|18%|{{:item:71.png?nolink&40|}}|18%|
+|{{:item:180.png?nolink&40|}}|42%|{{:item:1.png?nolink&40|}}|18%|{{:item:239.png?nolink&40|}}|12%|{{:item:41.png?nolink&40|}}|6%|{{:item:36.png?nolink&40|}}|6%|{{:item:65.png?nolink&40|}}|3%|{{:item:63.png?nolink&40|}}|3%|
+|{{:item:1.png?nolink&40|}}|42%|{{:item:180.png?nolink&40|}}|15%|{{:item:65.png?nolink&40|}}|12%|{{:item:63.png?nolink&40|}}|6%|{{:item:36.png?nolink&40|}}|3%|{{:item:152.png?nolink&40|}}|3%|{{:item:252.png?nolink&40|}}|3%|{{:item:239.png?nolink&40|}}|3%|
+|{{:item:65.png?nolink&40|}}|27%|{{:item:1.png?nolink&40|}}|24%|{{:item:152.png?nolink&40|}}|12%|{{:item:36.png?nolink&40|}}|9%|{{:item:102.png?nolink&40|}}|6%|{{:item:180.png?nolink&40|}}|3%|{{:item:252.png?nolink&40|}}|3%|
+|{{:item:65.png?nolink&40|}}|15%|{{:item:102.png?nolink&40|}}|12%|{{:item:116.png?nolink&40|}}|12%|{{:item:100.png?nolink&40|}}|9%|{{:item:152.png?nolink&40|}}|9%|{{:item:1.png?nolink&40|}}|6%|{{:item:98.png?nolink&40|}}|3%|{{:item:41.png?nolink&40|}}|3%|{{:item:110.png?nolink&40|}}|3%|
+|{{:item:152.png?nolink&40|}}|21%|{{:item:102.png?nolink&40|}}|9%|{{:item:100.png?nolink&40|}}|9%|{{:item:116.png?nolink&40|}}|6%|{{:item:110.png?nolink&40|}}|6%|{{:item:65.png?nolink&40|}}|3%|{{:item:98.png?nolink&40|}}|3%|{{:item:119.png?nolink&40|}}|3%|{{:item:187.png?nolink&40|}}|3%|{{:item:226.png?nolink&40|}}|3%|
+|{{:item:152.png?nolink&40|}}|9%|{{:item:149.png?nolink&40|}}|6%|{{:item:48.png?nolink&40|}}|3%|{{:item:112.png?nolink&40|}}|3%|{{:item:100.png?nolink&40|}}|3%|{{:item:102.png?nolink&40|}}|3%|{{:item:116.png?nolink&40|}}|3%|{{:item:110.png?nolink&40|}}|3%|{{:item:229.png?nolink&40|}}|3%|
+|{{:item:116.png?nolink&40|}}|6%|{{:item:48.png?nolink&40|}}|3%|{{:item:88.png?nolink&40|}}|3%|{{:item:250.png?nolink&40|}}|3%|{{:item:141.png?nolink&40|}}|3%|{{:item:110.png?nolink&40|}}|3%|
+|{{:item:81.png?nolink&40|}}|3%|{{:item:110.png?nolink&40|}}|3%|
+|{{:item:26.png?nolink&40|}}|3%|
+|{{:item:152.png?nolink&40|}}|3%|

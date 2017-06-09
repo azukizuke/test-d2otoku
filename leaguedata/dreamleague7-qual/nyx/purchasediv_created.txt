@@ -1,0 +1,8 @@
+|{{:item:180.png?nolink&40|}}|66%|{{:item:71.png?nolink&40|}}|16%|{{:item:63.png?nolink&40|}}|16%|
+|{{:item:36.png?nolink&40|}}|50%|{{:item:232.png?nolink&40|}}|16%|{{:item:65.png?nolink&40|}}|16%|{{:item:180.png?nolink&40|}}|16%|
+|{{:item:65.png?nolink&40|}}|33%|{{:item:36.png?nolink&40|}}|16%|{{:item:71.png?nolink&40|}}|16%|
+|{{:item:65.png?nolink&40|}}|33%|{{:item:108.png?nolink&40|}}|16%|{{:item:100.png?nolink&40|}}|16%|
+|{{:item:232.png?nolink&40|}}|16%|{{:item:100.png?nolink&40|}}|16%|{{:item:108.png?nolink&40|}}|16%|{{:item:102.png?nolink&40|}}|16%|
+|{{:item:232.png?nolink&40|}}|16%|{{:item:108.png?nolink&40|}}|16%|
+|{{:item:69.png?nolink&40|}}|16%|
+|{{:item:226.png?nolink&40|}}|16%|

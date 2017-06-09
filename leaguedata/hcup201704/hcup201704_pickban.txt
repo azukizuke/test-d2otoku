@@ -1,0 +1,11 @@
+|all||safe||mid||off||sup||ban1||
+| {{:hero:97.png?nolink&50|}} |97%| {{:hero:54.png?nolink&50|}} |67%| {{:hero:25.png?nolink&50|}} |83%| {{:hero:97.png?nolink&50|}} |97%| {{:hero:114.png?nolink&50|}} |97%| {{:hero:97.png?nolink&50|}} |97%|
+| {{:hero:114.png?nolink&50|}} |97%| {{:hero:20.png?nolink&50|}} |57%| {{:hero:8.png?nolink&50|}} |53%| {{:hero:88.png?nolink&50|}} |70%| {{:hero:5.png?nolink&50|}} |83%| {{:hero:114.png?nolink&50|}} |97%|
+| {{:hero:5.png?nolink&50|}} |83%| {{:hero:8.png?nolink&50|}} |53%| {{:hero:11.png?nolink&50|}} |50%| {{:hero:104.png?nolink&50|}} |50%| {{:hero:25.png?nolink&50|}} |83%| {{:hero:88.png?nolink&50|}} |70%|
+| {{:hero:25.png?nolink&50|}} |83%| {{:hero:106.png?nolink&50|}} |50%| {{:hero:106.png?nolink&50|}} |50%| {{:hero:28.png?nolink&50|}} |37%| {{:hero:107.png?nolink&50|}} |77%| {{:hero:54.png?nolink&50|}} |67%|
+| {{:hero:107.png?nolink&50|}} |77%| {{:hero:109.png?nolink&50|}} |43%| {{:hero:13.png?nolink&50|}} |43%| {{:hero:96.png?nolink&50|}} |33%| {{:hero:88.png?nolink&50|}} |70%| {{:hero:20.png?nolink&50|}} |57%|
+| {{:hero:88.png?nolink&50|}} |70%| {{:hero:70.png?nolink&50|}} |40%| {{:hero:74.png?nolink&50|}} |40%| {{:hero:102.png?nolink&50|}} |33%| {{:hero:20.png?nolink&50|}} |57%| {{:hero:25.png?nolink&50|}} |83%|
+| {{:hero:54.png?nolink&50|}} |67%| {{:hero:63.png?nolink&50|}} |33%| {{:hero:17.png?nolink&50|}} |30%| {{:hero:65.png?nolink&50|}} |27%| {{:hero:37.png?nolink&50|}} |50%| {{:hero:32.png?nolink&50|}} |47%|
+| {{:hero:20.png?nolink&50|}} |57%| {{:hero:10.png?nolink&50|}} |23%| {{:hero:46.png?nolink&50|}} |30%| {{:hero:29.png?nolink&50|}} |23%| {{:hero:32.png?nolink&50|}} |47%| {{:hero:57.png?nolink&50|}} |40%|
+| {{:hero:8.png?nolink&50|}} |53%| {{:hero:89.png?nolink&50|}} |17%| {{:hero:10.png?nolink&50|}} |23%| {{:hero:40.png?nolink&50|}} |23%| {{:hero:83.png?nolink&50|}} |43%| {{:hero:83.png?nolink&50|}} |43%|
+| {{:hero:11.png?nolink&50|}} |50%| {{:hero:95.png?nolink&50|}} |17%| {{:hero:34.png?nolink&50|}} |23%| {{:hero:16.png?nolink&50|}} |20%| {{:hero:57.png?nolink&50|}} |40%| {{:hero:28.png?nolink&50|}} |37%|

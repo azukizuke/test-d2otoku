@@ -1,0 +1,5 @@
+|LH|
+|avg|
+|med|
+|max|
+|min|

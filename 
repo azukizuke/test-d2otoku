@@ -1,0 +1,43 @@
+import const
+import os
+import fileIn
+import json
+
+def outputMatchList(filename,matchIDList):
+	fixFilename = const.PATH + filename + "/" + filename + const.SUFFIX_MATCHIDLIST
+	print ("debug filename : " + fixFilename)
+	f = open(fixFilename,"w",encoding="UTF-8")
+
+	for matchID in matchIDList:
+		f.write(str(matchID))
+		f.write("\n")
+	f.close
+
+def initMakeFolder(leaguename):
+	FolderPath=const.PATH + leaguename
+	if not os.path.isdir(FolderPath):
+		os.mkdir(FolderPath)
+
+	jsonHeroes = fileIn.readHeroJson()
+	jsonHeroes = jsonHeroes["heroes"]
+	for json in jsonHeroes:
+		FolderPath=const.PATH + leaguename + "/" + json["shotname"]
+		if not os.path.isdir(FolderPath):
+			os.mkdir(FolderPath)
+
+
+def outputHeroStatistics(heroname,leaguename,statname,val):
+	fixFilename=const.PATH + leaguename + "/" + heroname + "/" + statname + ".csv"
+
+	f = open(fixFilename,"w",encoding="UTF-8")
+
+	f.write(str(val))
+	f.write("\n")
+
+	f.close
+
+def makeOtokuPBstr(heroid,role,pbpercent):
+	imgsize = 100
+	outstr1 = "|" + heroid + "," + str(round(sortedAll[i].allpb / len(MatchDataList) * 100)) + "%"
+	outstr = "| {{:hero:" + str(heroid) + ".png?nolink&" + str(imgsize) + "|}} |" + str(percent) + "|"
+	return outstr

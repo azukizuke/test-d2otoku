@@ -1,0 +1,7 @@
+|{{:item:16.png?nolink&40|}}|300%||
+|{{:item:14.png?nolink&40|}}|200%||
+|{{:item:182.png?nolink&40|}}|100%||
+|{{:item:240.png?nolink&40|}}|50%||
+|{{:item:39.png?nolink&40|}}|50%||
+|{{:item:44.png?nolink&40|}}|50%||
+|{{:item:237.png?nolink&40|}}|50%||

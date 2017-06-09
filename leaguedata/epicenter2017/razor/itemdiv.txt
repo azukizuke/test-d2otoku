@@ -1,0 +1,9 @@
+|{{:item:50.png?nolink&40|}}|100%||
+|{{:item:116.png?nolink&40|}}|100%||
+|{{:item:185.png?nolink&40|}}|100%||
+|{{:item:9.png?nolink&40|}}|66%||
+|{{:item:210.png?nolink&40|}}|66%||
+|{{:item:33.png?nolink&40|}}|33%||
+|{{:item:170.png?nolink&40|}}|33%||
+|{{:item:154.png?nolink&40|}}|33%||
+|{{:item:46.png?nolink&40|}}|33%||

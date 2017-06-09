@@ -1,0 +1,5 @@
+|LV|
+|avg|
+|med|
+|max|
+|min|
